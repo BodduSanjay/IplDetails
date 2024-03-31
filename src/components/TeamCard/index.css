@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.teamCard-link {
+  text-decoration: none;
+}
+
+.teamCard-li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+  width: 46%;
+  border: 1px solid white;
+  background-color: rgba(white, 0.5);
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.teamCard-img {
+  height: 90%;
+  width: 80px;
+}
+
+.teamCard-h1 {
+  font-size: 15px;
+  margin: 5px;
+}
